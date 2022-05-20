@@ -1,29 +1,29 @@
-site: gyuri_oh Devlog
-title: gyuri_oh Devlog
-greetings: gyuri_oh Devlog😘
+site: Gesko
+title: Gesko
+greetings: Hi 👋
 description: >-
-  A newbie👀 but pretty passionate game programmer. / 꼬꼬마 게임 개발자의 블로그
+  just a minimalist, personal blog
 lang: en-US
-timezone:  Asia/Seoul
-repo: https://github.com/GyuRiOh/gyurioh.github.io # site repo [optional]
+timezone:  Europe/Rome
+repo: https://github.com/p0wex/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: gyuri # replace with your disqus shortname
+discus-identifier: powex # replace with your disqus shortname
 
 author:
-  name: gyuri_oh
-  bio: A newbie, but pretty passionate game programmer.
+  name: gesko
+  bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
   github: # github username
   twitter: # twitter username
-  email: fridayeveningcallme@gmail.com # email adress
+  email: your-email@email.com # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://gyurioh.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/base" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://p0wex.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
