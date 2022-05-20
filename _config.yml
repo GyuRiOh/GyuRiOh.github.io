@@ -5,7 +5,7 @@ description: >-
   A newbie👀 but pretty passionate game programmer. / 꼬꼬마 게임 개발자의 블로그
 lang: en-US
 timezone:  Asia/Seoul
-repo: https://gyurioh.github.io # site repo [optional]
+repo: https://github.com/GyuRiOh/gyurioh.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
