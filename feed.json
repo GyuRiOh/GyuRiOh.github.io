@@ -20,8 +20,8 @@
             "id": "https://gyurioh.github.io/2022/05/21/perfect-circle",
             "title": "Perfect Circle",
             "summary": "Daily writing",
-            "content_text": "  새는 알에서 나오기 위해서 투쟁한다. 알은 세계이다. 태어나려고 하는 자는 누구든 하나의 세계를 파괴하지 않으면 안된다. 새는 신을 향해 날아간다. 그 신의 이름은 아브락사스이다.",
-            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lX8QVBl-ZG0&amp;t=10s\" frameborder=\"0\" allowfullscreen=\"\"></iframe><blockquote>  <p>새는 알에서 나오기 위해서 투쟁한다. 알은 세계이다. 태어나려고 하는 자는 누구든 하나의 세계를 파괴하지 않으면 안된다. 새는 신을 향해 날아간다. 그 신의 이름은 아브락사스이다.</p></blockquote>",
+            "content_text": "![]&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lX8QVBl-ZG0&amp;t=10s\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;  새는 알에서 나오기 위해서 투쟁한다. 알은 세계이다. 태어나려고 하는 자는 누구든 하나의 세계를 파괴하지 않으면 안된다. 새는 신을 향해 날아간다. 그 신의 이름은 아브락사스이다.",
+            "content_html": "<p>![]&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lX8QVBl-ZG0&amp;t=10s\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</p><blockquote>  <p>새는 알에서 나오기 위해서 투쟁한다. 알은 세계이다. 태어나려고 하는 자는 누구든 하나의 세계를 파괴하지 않으면 안된다. 새는 신을 향해 날아간다. 그 신의 이름은 아브락사스이다.</p></blockquote>",
             "url": "https://gyurioh.github.io/2022/05/21/perfect-circle",
             
             
