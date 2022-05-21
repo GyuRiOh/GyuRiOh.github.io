@@ -4,7 +4,7 @@
  <title>gyuri_oh Devlog</title>
  <link href="https://gyurioh.github.io//atom.xml" rel="self"/>
  <link href="https://gyurioh.github.io//"/>
- <updated>2022-05-21T09:12:04+09:00</updated>
+ <updated>2022-05-21T09:12:27+09:00</updated>
  <id>https://gyurioh.github.io</id>
  <author>
    <name>gyuri_oh</name>
@@ -324,22 +324,10 @@ AMD는 데이터 쪼개지는 현상이 나타남 32 경계만 있어도.&lt;/p&
  </entry>
  
  <entry>
-   <title>처음 쓰는 일기</title>
-   <link href="https://gyurioh.github.io//2022/05/19/%EC%B2%AB-%EA%B8%80"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/첫 글</id>
-   <content type="html">&lt;p&gt;깃허브 블로그는 처음 써봐서 어색하다.
-그래도 네이버 블로그보다는 훨씬 나은 것 같다.&lt;/p&gt;
-
-&lt;p&gt;끝!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>0420 내용</title>
-   <link href="https://gyurioh.github.io//2022/05/19/0420-%EB%82%B4%EC%9A%A9"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/0420 내용</id>
+   <link href="https://gyurioh.github.io//2022/05/20/0420-%EB%82%B4%EC%9A%A9"/>
+   <updated>2022-05-20T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/20/0420 내용</id>
    <content type="html">&lt;p&gt;04 20&lt;/p&gt;
 
 &lt;p&gt;콜스택 ‘외부 코드’ -&amp;gt; 보고 싶은 경우는 ‘외부 코드 표시’를 활성화해야 한다.
@@ -690,6 +678,18 @@ const가 p에 들어가서 값은 변경할 수 있지만 대상은 변경할 �
 
 &lt;p&gt;strlen strcpy strcmp
 문자열 복사, 길이 확인, 문자열 길이 비교 -&amp;gt; char const* 함.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>처음 쓰는 일기</title>
+   <link href="https://gyurioh.github.io//2022/05/19/%EC%B2%AB-%EA%B8%80"/>
+   <updated>2022-05-19T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/19/첫 글</id>
+   <content type="html">&lt;p&gt;깃허브 블로그는 처음 써봐서 어색하다.
+그래도 네이버 블로그보다는 훨씬 나은 것 같다.&lt;/p&gt;
+
+&lt;p&gt;끝!&lt;/p&gt;
 </content>
  </entry>
  
