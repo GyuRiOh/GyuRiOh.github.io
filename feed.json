@@ -41,6 +41,30 @@
         },
     
         {
+            "id": "https://gyurioh.github.io/2022/05/19/perfect-circle",
+            "title": "Perfect Circle",
+            "summary": "Daily writing",
+            "content_text": "",
+            "content_html": "",
+            "url": "https://gyurioh.github.io/2022/05/19/perfect-circle",
+            
+            
+            
+            "tags": ["writing","diary"],
+            
+            "date_published": "2022-05-19T00:00:00+09:00",
+            "date_modified": "2022-05-19T00:00:00+09:00",
+            
+                "author":  {
+                "name": "gyuri_oh",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://gyurioh.github.io/2022/05/19/0422-%EB%82%B4%EC%9A%A9",
             "title": "0422 내용",
             "summary": "0422 내용",
