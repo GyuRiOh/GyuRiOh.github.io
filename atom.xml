@@ -4,7 +4,7 @@
  <title>gyuri_oh Devlog</title>
  <link href="https://gyurioh.github.io//atom.xml" rel="self"/>
  <link href="https://gyurioh.github.io//"/>
- <updated>2022-05-21T09:12:45+09:00</updated>
+ <updated>2022-05-21T09:13:05+09:00</updated>
  <id>https://gyurioh.github.io</id>
  <author>
    <name>gyuri_oh</name>
@@ -1041,22 +1041,10 @@ esp를 sub한 크기를 알아야 ebp를 알 수 있고 돌아갈 주소를 알 
  </entry>
  
  <entry>
-   <title>처음 쓰는 일기</title>
-   <link href="https://gyurioh.github.io//2022/05/19/%EC%B2%AB-%EA%B8%80"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/첫 글</id>
-   <content type="html">&lt;p&gt;깃허브 블로그는 처음 써봐서 어색하다.
-그래도 네이버 블로그보다는 훨씬 나은 것 같다.&lt;/p&gt;
-
-&lt;p&gt;끝!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>0415 내용</title>
-   <link href="https://gyurioh.github.io//2022/05/19/0415-%EB%82%B4%EC%9A%A9"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/0415 내용</id>
+   <link href="https://gyurioh.github.io//2022/05/20/0415-%EB%82%B4%EC%9A%A9"/>
+   <updated>2022-05-20T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/20/0415 내용</id>
    <content type="html">&lt;p&gt;2의 보수란? 비트를 전부 반전시키고 +1.&lt;/p&gt;
 
 &lt;p&gt;char ch = ‘a’;
@@ -1180,6 +1168,18 @@ case값을 역으로 하나씩 줄어드는 식으로 하면?
 &lt;p&gt;그래서 언제 분기를 타는지?
 너무 case값 사이의 크기차이가 크면 cmp를 계속 한다.
 테이블 자체가 사라진다.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>처음 쓰는 일기</title>
+   <link href="https://gyurioh.github.io//2022/05/19/%EC%B2%AB-%EA%B8%80"/>
+   <updated>2022-05-19T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/19/첫 글</id>
+   <content type="html">&lt;p&gt;깃허브 블로그는 처음 써봐서 어색하다.
+그래도 네이버 블로그보다는 훨씬 나은 것 같다.&lt;/p&gt;
+
+&lt;p&gt;끝!&lt;/p&gt;
 </content>
  </entry>
  
