@@ -4,7 +4,7 @@
  <title>gyuri_oh Devlog</title>
  <link href="https://gyurioh.github.io//atom.xml" rel="self"/>
  <link href="https://gyurioh.github.io//"/>
- <updated>2022-05-21T09:11:36+09:00</updated>
+ <updated>2022-05-21T09:12:04+09:00</updated>
  <id>https://gyurioh.github.io</id>
  <author>
    <name>gyuri_oh</name>
@@ -13,31 +13,19 @@
 
  
  <entry>
-   <title>처음 쓰는 일기</title>
-   <link href="https://gyurioh.github.io//2022/05/19/%EC%B2%AB-%EA%B8%80"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/첫 글</id>
-   <content type="html">&lt;p&gt;깃허브 블로그는 처음 써봐서 어색하다.
-그래도 네이버 블로그보다는 훨씬 나은 것 같다.&lt;/p&gt;
-
-&lt;p&gt;끝!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Perfect Circle</title>
-   <link href="https://gyurioh.github.io//2022/05/19/perfect-circle"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/Perfect Circle</id>
+   <link href="https://gyurioh.github.io//2022/05/21/perfect-circle"/>
+   <updated>2022-05-21T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/21/Perfect Circle</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>0422 내용</title>
-   <link href="https://gyurioh.github.io//2022/05/19/0422-%EB%82%B4%EC%9A%A9"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/0422 내용</id>
+   <link href="https://gyurioh.github.io//2022/05/20/0422-%EB%82%B4%EC%9A%A9"/>
+   <updated>2022-05-20T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/20/0422 내용</id>
    <content type="html">&lt;p&gt;atomic한 행동이란?
 atomic 한방에 실행된다. 이 명령 끝나기 전까지는 누구든지 개입을 할 수 있다.
 크리티컬 섹션 동기화는 완전 다른 건이다!!
@@ -332,6 +320,18 @@ AMD는 데이터 쪼개지는 현상이 나타남 32 경계만 있어도.&lt;/p&
 클래스도 마찬가지. 클래스와 구조체가 동급!
 크기를 가장 큰 녀석에 맞춘다. 그렇게 잡아줘야 내 다음 다음 뒤이어서 선언된 구조체에 문제가 없다.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>처음 쓰는 일기</title>
+   <link href="https://gyurioh.github.io//2022/05/19/%EC%B2%AB-%EA%B8%80"/>
+   <updated>2022-05-19T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/19/첫 글</id>
+   <content type="html">&lt;p&gt;깃허브 블로그는 처음 써봐서 어색하다.
+그래도 네이버 블로그보다는 훨씬 나은 것 같다.&lt;/p&gt;
+
+&lt;p&gt;끝!&lt;/p&gt;
 </content>
  </entry>
  
