@@ -4,7 +4,7 @@
  <title>gyuri_oh Devlog</title>
  <link href="https://gyurioh.github.io//atom.xml" rel="self"/>
  <link href="https://gyurioh.github.io//"/>
- <updated>2022-05-21T09:12:27+09:00</updated>
+ <updated>2022-05-21T09:12:45+09:00</updated>
  <id>https://gyurioh.github.io</id>
  <author>
    <name>gyuri_oh</name>
@@ -682,22 +682,10 @@ const가 p에 들어가서 값은 변경할 수 있지만 대상은 변경할 �
  </entry>
  
  <entry>
-   <title>처음 쓰는 일기</title>
-   <link href="https://gyurioh.github.io//2022/05/19/%EC%B2%AB-%EA%B8%80"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/첫 글</id>
-   <content type="html">&lt;p&gt;깃허브 블로그는 처음 써봐서 어색하다.
-그래도 네이버 블로그보다는 훨씬 나은 것 같다.&lt;/p&gt;
-
-&lt;p&gt;끝!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>0418 내용</title>
-   <link href="https://gyurioh.github.io//2022/05/19/0418-%EB%82%B4%EC%9A%A9"/>
-   <updated>2022-05-19T00:00:00+09:00</updated>
-   <id>https://gyurioh.github.io/2022/05/19/0418 내용</id>
+   <link href="https://gyurioh.github.io//2022/05/20/0418-%EB%82%B4%EC%9A%A9"/>
+   <updated>2022-05-20T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/20/0418 내용</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
     &lt;ol&gt;
@@ -1049,6 +1037,18 @@ ebp 바로 아래는 eip 백업 값이다.&lt;/p&gt;
 esp를 sub한 크기를 알아야 ebp를 알 수 있고 돌아갈 주소를 알 수 있다.
 그 함수는 여기서 이만큼을 해야하니까 여기로 갈 것이고.
 역으로 분석하면 돌아갈 주소를 알 수 있다.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>처음 쓰는 일기</title>
+   <link href="https://gyurioh.github.io//2022/05/19/%EC%B2%AB-%EA%B8%80"/>
+   <updated>2022-05-19T00:00:00+09:00</updated>
+   <id>https://gyurioh.github.io/2022/05/19/첫 글</id>
+   <content type="html">&lt;p&gt;깃허브 블로그는 처음 써봐서 어색하다.
+그래도 네이버 블로그보다는 훨씬 나은 것 같다.&lt;/p&gt;
+
+&lt;p&gt;끝!&lt;/p&gt;
 </content>
  </entry>
  
