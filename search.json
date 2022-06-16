@@ -28,24 +28,6 @@
     } ,
   
     {
-      "title"    : "0420 내용",
-      "description" : "0420 내용",
-      "category" : "",
-      "tags"     : "coding, lesson, quarter1",
-      "url"      : "//2022/05/20/0420-%EB%82%B4%EC%9A%A9",
-      "date"     : "2022-05-20 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "0418 내용",
-      "description" : "0418 내용",
-      "category" : "",
-      "tags"     : "coding, lesson, quarter1",
-      "url"      : "//2022/05/20/0418-%EB%82%B4%EC%9A%A9",
-      "date"     : "2022-05-20 00:00:00 +0900"
-    } ,
-  
-    {
       "title"    : "처음 쓰는 일기",
       "description" : "처음으로 쓰는 글이다.",
       "category" : "",
