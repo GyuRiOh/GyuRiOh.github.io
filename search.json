@@ -28,15 +28,6 @@
     } ,
   
     {
-      "title"    : "처음 쓰는 일기",
-      "description" : "처음으로 쓰는 글이다.",
-      "category" : "",
-      "tags"     : "coding, writing, diary",
-      "url"      : "//2022/05/19/%EC%B2%AB-%EA%B8%80",
-      "date"     : "2022-05-19 00:00:00 +0900"
-    } ,
-  
-    {
       "title"    : "Difference between font formats",
       "description" : "What is the difference between various font formats?",
       "category" : "",
